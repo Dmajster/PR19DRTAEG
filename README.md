@@ -1,31 +1,39 @@
-Dota 2 – Vplivi na izid igre
+#
+# Dota 2 - Vpliv na izid igre
+#
+##### Člani
+Tim Androja    
+Domen Rostohar
+Erik Grubar
+#
+##### Vir podatkov
+Kaggle - https://www.kaggle.com/devinanzelmo/dota-2-matches
 
-Člani: Tim Androja, Domen Rostohar, Erik Grubar
+##### Glavno vprašanje
+Kateri faktorji pripomorejo k zmagi?
 
-Vir podatkov: https://www.kaggle.com/devinanzelmo/dota-2-matches
+##### Izzivi
+Kako maksimizirati možnosti za zmago?
 
-Glavno vpašanje: Kateri faktorji pripomorejo k zmagi?
-Izivi: Kako maksimizirati možnosti za zmago.
+##### Kriteriji
+Najti atribute, ki vplivajo na izid igre
 
-Kriteriji: Najti atribute, ki vplivajo na izid igre. 
+##### Vpliv strani mape na zmago (Radiant, Dire)
 
+![Igralna mapa](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiv1oyXtLLhAhVBYlAKHfFVB_YQjRx6BAgBEAU&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FMap-of-Dota-2-from-Dota-2-wiki-7_fig1_262207918&psig=AOvVaw1-cKUmPPHvV9Wz2Dofkh1C&ust=1554328810800597)
 
+##### Število zmag 
 
-Vpliv strani mape na zmago(Radiant,Dire)
-Mapa:https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiv1oyXtLLhAhVBYlAKHfFVB_YQjRx6BAgBEAU&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FMap-of-Dota-2-from-Dota-2-wiki-7_fig1_262207918&psig=AOvVaw1-cKUmPPHvV9Wz2Dofkh1C&ust=1554328810800597
+![Graf števila zmag](http://prntscr.com/n6n0en)
 
-Število zmag:
-http://prntscr.com/n6n0en
-Radiant: 25943 
-Dire:24057
+##### Vpliv strani mape na zmago po času (Radiant, Dire)
+![Graf zmage po času](http://prntscr.com/n6n0q6)
 
+##### Najbolj igrani heroji
+![Graf najbolj igranih herojev](https://cdn.discordapp.com/attachments/517113224366260260/562760086649307136/unknown.png)
 
-
-Vpliv strani mape na zmago po času(Radiant,Dire):
-http://prntscr.com/n6n0q6
-
-Radiant:[272, 13391, 11028, 1252] 				Dire: [172, 10699, 11894, 1292]
-
+##### Heroji z najboljšim razmerjem zmag
+![Graf herojev z najboljšim razmerjem zmag](https://media.discordapp.net/attachments/517113224366260260/562765278497210399/unknown.png)
 
 
 
