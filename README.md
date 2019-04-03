@@ -41,6 +41,7 @@ Najti atribute, ki najbolj vplivajo na izid igre.
 
 ## Vpliv strani mape na zmago po času (Radiant, Dire)
 ![Graf zmage po času](https://cdn.discordapp.com/attachments/517113224366260260/562786506146578432/dfwA9rlxOWioIMgAAAABJRU5ErkJggg.png)
+Radiant:[272, 13391, 11028, 1252]  Dire: [172, 10699, 11894, 1292]
 
 ## Najbolj igrani heroji
 ![Graf najbolj igranih herojev](https://cdn.discordapp.com/attachments/517113224366260260/562760086649307136/unknown.png)
