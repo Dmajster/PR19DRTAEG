@@ -33,7 +33,7 @@ Najti atribute, ki najbolj vplivajo na izid igre.
 
 ## Vpliv strani mape na zmago (Radiant, Dire)
 
-![Igralna mapa](https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiv1oyXtLLhAhVBYlAKHfFVB_YQjRx6BAgBEAU&url=https%3A%2F%2Fwww.researchgate.net%2Ffigure%2FMap-of-Dota-2-from-Dota-2-wiki-7_fig1_262207918&psig=AOvVaw1-cKUmPPHvV9Wz2Dofkh1C&ust=1554328810800597)
+![Igralna mapa](https://cdn.discordapp.com/attachments/517113224366260260/562932273989812224/Map-of-Dota-2-from-Dota-2-wiki-7.png)
 
 ## Število zmag 
 
