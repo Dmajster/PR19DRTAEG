@@ -9,14 +9,27 @@ Erik Grubar
 ## Vir podatkov
 Kaggle - https://www.kaggle.com/devinanzelmo/dota-2-matches
 
+V 19 csv datotekah smo dobili podatke o 50000 rankiranih tekem iz igre Dota 2, kjer lahko razberemo zelo veliko podatkov. Imamo več datotek in vsaka nam pove nekaj novih informacij.
+
+* Datoteka - kratki opis
+* Match - Informacije o tekmi
+* Players - Informacije o igralcih
+* Hero Names - Podatki o herojih
+* Chat - Pogovori iz tekem
+* Match Outcomes - Izidi iger
+* Player Ratings - Ocene igralcev
+* Purchase Log - Informacije o nakupih
+* In še veliko veliko uporabnih atributov, ki jih bomo potrebovali pri projektni nalogi
+
 ## Glavno vprašanje
-Kateri faktorji pripomorejo k zmagi?
+Kateri faktorji pripomorejo k zmagi? 
+
 
 ## Izzivi
-Kako maksimizirati možnosti za zmago?
+Kako maksimizirati možnosti za zmago? Kakšno taktiko in katere heroje moramo izbrati za največjo možnost, da zmagamo? Če na zmago/poraz vplivajo tudi soigralci oz. kakšni soigralci najbolje vplivajo?
 
 ## Kriteriji
-Najti atribute, ki vplivajo na izid igre
+Najti atribute, ki najbolj vplivajo na izid igre.
 
 ## Vpliv strani mape na zmago (Radiant, Dire)
 
@@ -24,10 +37,10 @@ Najti atribute, ki vplivajo na izid igre
 
 ## Število zmag 
 
-![Graf števila zmag](http://prntscr.com/n6n0en)
+![Graf števila zmag](https://cdn.discordapp.com/attachments/517113224366260260/562786318678097920/rn22mszYMCADB8PLfffnueeeaZLFy48LN4eQAAAGCrMgIDAAAAAAAAAAAAAAAAKGBGYAAAAAAAAAAAAAAAAAAFzAgMAAAAAAAAAA.png)
 
 ## Vpliv strani mape na zmago po času (Radiant, Dire)
-![Graf zmage po času](http://prntscr.com/n6n0q6)
+![Graf zmage po času](https://cdn.discordapp.com/attachments/517113224366260260/562786506146578432/dfwA9rlxOWioIMgAAAABJRU5ErkJggg.png)
 
 ## Najbolj igrani heroji
 ![Graf najbolj igranih herojev](https://cdn.discordapp.com/attachments/517113224366260260/562760086649307136/unknown.png)
